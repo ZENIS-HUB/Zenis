@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<link rel="pingback" href="http://localhost/wordpress/xmlrpc.php">
+
+	<title>Page not found &#8211; patriotpages</title>
+<link rel="preload" as="font" href="http://localhost/wordpress/wp-content/themes/my-listing/assets/fonts/GlacialIndifference/Regular.otf" crossorigin><link rel="preload" as="font" href="http://localhost/wordpress/wp-content/themes/my-listing/assets/fonts/GlacialIndifference/Bold.otf" crossorigin><link rel="preload" as="font" href="http://localhost/wordpress/wp-content/themes/my-listing/assets/fonts/GlacialIndifference/Italic.otf" crossorigin><meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="patriotpages &raquo; Feed" href="http://localhost/wordpress/feed/" />
+<link rel="alternate" type="application/rss+xml" title="patriotpages &raquo; Comments Feed" href="http://localhost/wordpress/comments/feed/" />
+<link rel='preload stylesheet' as='style' onload="this.onload=null;this.rel='stylesheet'" id='wp-block-library-css'  href='http://localhost/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='http://localhost/wordpress/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=6.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='http://localhost/wordpress/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=6.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='export-wp-page-to-static-html-css'  href='http://localhost/wordpress/wp-content/plugins/export-wp-page-to-static-html-pro-premium/public/css/export-wp-page-to-static-html-public.css?ver=1.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://localhost/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://localhost/wordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://localhost/wordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.9.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://localhost/wordpress/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.9.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='elementor-icons-css'  href='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://localhost/wordpress/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.8' type='text/css' media='all' />
+<style id='elementor-frontend-inline-css' type='text/css'>
+@font-face{font-family:eicons;src:url(http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+</style>
+<link rel='stylesheet' id='elementor-post-7-css'  href='http://localhost/wordpress/wp-content/uploads/elementor/css/post-7.css?ver=1638613544' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://localhost/wordpress/wp-content/uploads/elementor/css/global.css?ver=1638613544' type='text/css' media='all' />
+<link rel='stylesheet' id='mylisting-google-maps-css'  href='http://localhost/wordpress/wp-content/themes/my-listing/assets/dist/maps/google-maps/google-maps.css?ver=2.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mylisting-icons-css'  href='http://localhost/wordpress/wp-content/themes/my-listing/assets/dist/icons.css?ver=2.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mylisting-material-icons-css'  href='https://fonts.googleapis.com/icon?family=Material+Icons&#038;display=swap&#038;ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='http://localhost/wordpress/wp-content/plugins/woocommerce/assets/css/select2.css?ver=5.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mylisting-vendor-css'  href='http://localhost/wordpress/wp-content/themes/my-listing/assets/dist/vendor.css?ver=2.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mylisting-frontend-css'  href='http://localhost/wordpress/wp-content/themes/my-listing/assets/dist/frontend.css?ver=2.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-styles-default-css'  href='http://localhost/wordpress/wp-content/themes/my-listing/style.css?ver=5.8.2' type='text/css' media='all' />
+<style id='theme-styles-default-inline-css' type='text/css'>
+:root{}
+</style>
+<link rel='stylesheet' id='mylisting-default-fonts-css'  href='http://localhost/wordpress/wp-content/themes/my-listing/assets/dist/default-fonts.css?ver=2.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mylisting-dynamic-styles-css'  href='http://localhost/wordpress/wp-content/uploads/mylisting-dynamic-styles.css?ver=1638613508' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.8.2' type='text/css' media='all' />
+		<script>
+			/* <![CDATA[ */
+			var rcewpp = {
+				"ajax_url":"http://localhost/wordpress/wp-admin/admin-ajax.php",
+				"nonce": "1f5fc950bc",
+				"home_url": "http://localhost/wordpress/",
+				"settings_icon": 'http://localhost/wordpress/wp-content/plugins/export-wp-page-to-static-html-pro-premium/admin/images/settings.png',
+				"settings_hover_icon": 'http://localhost/wordpress/wp-content/plugins/export-wp-page-to-static-html-pro-premium/admin/images/settings_hover.png'
+			};
+			/* ]]\> */
+		</script>
+		<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/export-wp-page-to-static-html-pro-premium/public/js/export-wp-page-to-static-html-public.js?ver=1.0.4' id='export-wp-page-to-static-html-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.4.8' id='font-awesome-4-shim-js'></script>
+<link rel="https://api.w.org/" href="http://localhost/wordpress/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.2" />
+<meta name="generator" content="WooCommerce 5.9.0" />
+<script type="text/javascript">var MyListing = {"Helpers":{},"Handlers":{},"MapConfig":{"ClusterSize":35,"AccessToken":"","Language":"default","TypeRestrictions":"geocode","CountryRestrictions":[],"CustomSkins":{}}};</script><script type="text/javascript">var CASE27 = {"ajax_url":"http:\/\/localhost\/wordpress\/wp-admin\/admin-ajax.php","login_url":"http:\/\/localhost\/wordpress\/my-account-2\/","register_url":"http:\/\/localhost\/wordpress\/my-account-2\/?register","mylisting_ajax_url":"\/wordpress\/?mylisting-ajax=1","env":"production","ajax_nonce":"c890ed8f5c","l10n":{"selectOption":"Select an option","errorLoading":"The results could not be loaded.","removeAllItems":"Remove all items","loadingMore":"Loading more results\u2026","noResults":"No results found","searching":"Searching\u2026","datepicker":{"format":"DD MMMM, YY","timeFormat":"h:mm A","dateTimeFormat":"DD MMMM, YY, h:mm A","timePicker24Hour":false,"firstDay":1,"applyLabel":"Apply","cancelLabel":"Cancel","customRangeLabel":"Custom Range","daysOfWeek":["Su","Mo","Tu","We","Th","Fr","Sa"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"]},"irreversible_action":"This is an irreversible action. Proceed anyway?","delete_listing_confirm":"Are you sure you want to delete this listing?","copied_to_clipboard":"Copied!","nearby_listings_location_required":"Enter a location to find nearby listings.","nearby_listings_retrieving_location":"Retrieving location...","nearby_listings_searching":"Searching for nearby listings...","geolocation_failed":"You must enable location to use this feature.","something_went_wrong":"Something went wrong.","all_in_category":"All in \"%s\"","invalid_file_type":"Invalid file type. Accepted types:","file_limit_exceeded":"You have exceeded the file upload limit (%d)."},"woocommerce":[],"listing_comparison":[],"map_provider":"google-maps","js_field_html_img":"<div class=\"uploaded-file uploaded-image review-gallery-image job-manager-uploaded-file\">\t<span class=\"uploaded-file-preview\">\t\t\t\t\t<span class=\"job-manager-uploaded-file-preview\">\t\t\t\t<img src=\"\">\t\t\t<\/span>\t\t\t\t<a class=\"remove-uploaded-file review-gallery-image-remove job-manager-remove-uploaded-file\"><i class=\"mi delete\"><\/i><\/a>\t<\/span>\t<input type=\"hidden\" class=\"input-text\" name=\"\" value=\"b64:\"><\/div>","js_field_html":"<div class=\"uploaded-file  review-gallery-image job-manager-uploaded-file\">\t<span class=\"uploaded-file-preview\">\t\t\t\t\t<span class=\"job-manager-uploaded-file-name\">\t\t\t\t<i class=\"mi insert_drive_file uploaded-file-icon\"><\/i>\t\t\t\t<code><\/code>\t\t\t<\/span>\t\t\t\t<a class=\"remove-uploaded-file review-gallery-image-remove job-manager-remove-uploaded-file\"><i class=\"mi delete\"><\/i><\/a>\t<\/span>\t<input type=\"hidden\" class=\"input-text\" name=\"\" value=\"b64:\"><\/div>"};</script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css" id="mylisting-element-queries">.featured-search[max-width~="1000px"] .form-group, .featured-search .filter-count-3 .form-group { width: calc(33.3% - 12px); margin-right: 18px; } .featured-search[max-width~="1000px"] .form-group:nth-child(3n), .featured-search .filter-count-3 .form-group:nth-child(3n) { margin-right: 0; } .featured-search[max-width~="750px"] .form-group, .featured-search .filter-count-2 .form-group { width: calc(50% - 5px); margin-right: 10px !important; } .featured-search[max-width~="750px"] .form-group:nth-child(2n), .featured-search .filter-count-2 .form-group:nth-child(2n) { margin-right: 0 !important; } .featured-search[max-width~="550px"] .form-group, .featured-search .filter-count-1 .form-group { width: 100%; margin-right: 0 !important; } </style><style type="text/css" id="mylisting-typography"></style></head>
+<body class="error404 theme-my-listing woocommerce-no-js my-listing elementor-default elementor-kit-7">
+
+<div id="c27-site-wrapper"><div class="loader-bg main-loader site-logo-loader" style="background-color: #202125;">
+	<img src="http://localhost/wordpress/wp-content/uploads/2021/12/e8eb7c66758e79-1.png">
+</div>
+
+<header class="c27-main-header header header-style-default header-dark-skin header-scroll-dark-skin hide-until-load header-scroll-hide header-fixed header-menu-right">
+	<div class="header-skin"></div>
+	<div class="header-container">
+		<div class="header-top container-fluid">
+			<div class="header-left">
+			<div class="mobile-menu">
+				<a href="#main-menu">
+					<div class="mobile-menu-lines"><i class="mi menu"></i></div>
+				</a>
+			</div>
+			<div class="logo">
+									
+					<a href="http://localhost/wordpress/" class="static-logo">
+						<img src="http://localhost/wordpress/wp-content/uploads/2021/12/e8eb7c66758e79-1.png"
+							alt="">
+					</a>
+							</div>
+							<div class="quick-search-instance text-left" id="c27-header-search-form" data-focus="default">
+	<form action="http://localhost/wordpress/explore-2/" method="GET">
+		<div class="dark-forms header-search  search-shortcode-light">
+			<i class="mi search"></i>
+			<input type="search" placeholder="What are you looking for?" name="search_keywords" autocomplete="off">
+			<div class="instant-results">
+				<ul class="instant-results-list ajax-results"></ul>
+				<button type="submit" class="buttons full-width button-5 search view-all-results all-results">
+					<i class="mi search"></i>View all results				</button>
+				<button type="submit" class="buttons full-width button-5 search view-all-results no-results">
+					<i class="mi search"></i>No results				</button>
+				<div class="loader-bg">
+					
+<div class="paper-spinner center-vh" style="width: 24px; height: 24px;">
+	<div class="spinner-container active">
+		<div class="spinner-layer layer-1" style="border-color: #777;">
+			<div class="circle-clipper left">
+				<div class="circle" style="border-width: 2.5px;"></div>
+			</div><div class="gap-patch">
+				<div class="circle" style="border-width: 2.5px;"></div>
+			</div><div class="circle-clipper right">
+				<div class="circle" style="border-width: 2.5px;"></div>
+			</div>
+		</div>
+	</div>
+</div>				</div>
+
+									<ul class="instant-results-list default-results">
+        				<li class="ir-cat">Featured</li>
+
+													<li>
+								<a href="http://localhost/wordpress/category/nightlife/">
+									<span class="cat-icon" style="background-color: #f24286;">
+                                        			<i class="icon-glass-cocktail-2" style="color: #fff; "></i>
+											</span>
+									<span class="category-name">Nightlife</span>
+								</a>
+							</li>
+													<li>
+								<a href="http://localhost/wordpress/category/restaurants/">
+									<span class="cat-icon" style="background-color: #ff4949;">
+                                        			<i class="mi restaurant_menu" style="color: #fff; "></i>
+											</span>
+									<span class="category-name">Restaurants</span>
+								</a>
+							</li>
+													<li>
+								<a href="http://localhost/wordpress/category/cinemas/">
+									<span class="cat-icon" style="background-color: #25d4e8;">
+                                        			<i class="mi local_movies" style="color: #fff; "></i>
+											</span>
+									<span class="category-name">Cinemas</span>
+								</a>
+							</li>
+													<li>
+								<a href="http://localhost/wordpress/category/art-and-history/">
+									<span class="cat-icon" style="background-color: #dd9933;">
+                                        			<i class="icon-temple-2" style="color: #fff; "></i>
+											</span>
+									<span class="category-name">Art and History</span>
+								</a>
+							</li>
+						
+					</ul>
+							</div>
+		</div>
+	</form>
+</div>
+										</div>
+			<div class="header-center">
+			<div class="i-nav">
+				<div class="mobile-nav-head">
+					<div class="mnh-close-icon">
+						<a href="#close-main-menu">
+							<i class="mi close"></i>
+						</a>
+					</div>
+
+									</div>
+
+				
+					<ul id="menu-main-menu" class="main-menu main-nav"><li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172"><a href="http://localhost/wordpress/home-2/"><i class="icon-places-home-3"></i> Home</a></li>
+<li id="menu-item-173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-173"><a href="http://localhost/wordpress/explore/"><i class="fa fa-compass"></i> Explore</a>
+<div class="submenu-toggle"><!--<i class="material-icons">arrow_drop_down</i>--><i class="mi arrow_drop_down"></i></div><ul class="sub-menu i-dropdown">
+	<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="http://localhost/wordpress/explore/">Explore</a></li>
+	<li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="http://localhost/wordpress/explore-2-columns/">Explore (2 columns)</a></li>
+	<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="http://localhost/wordpress/explore-alternate/">Explore (3 columns)</a></li>
+	<li id="menu-item-177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177"><a href="http://localhost/wordpress/explore-alternate-2/">Explore Alternate</a></li>
+	<li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178"><a href="http://localhost/wordpress/explore-no-map/">Explore No map</a></li>
+	<li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179"><a href="http://localhost/wordpress/explore-classic/">Explore classic</a></li>
+</ul>
+</li>
+<li id="menu-item-180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-180"><a href="#"><i class="icon-location-pin-check-2"></i> Listings</a>
+<div class="submenu-toggle"><!--<i class="material-icons">arrow_drop_down</i>--><i class="mi arrow_drop_down"></i></div><ul class="sub-menu i-dropdown">
+	<li id="menu-item-181" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181"><a href="http://localhost/wordpress/listing/liman-restaurant/#profile">Place</a></li>
+	<li id="menu-item-182" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-182"><a href="http://localhost/wordpress/listing/london-grammar-live/">Event</a></li>
+	<li id="menu-item-183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-183"><a href="http://localhost/wordpress/listing/experienced-project-manager/">Jobs</a></li>
+	<li id="menu-item-184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-184"><a href="http://localhost/wordpress/listing/charming-1-bedroom-flat-for-rent-in-whitechapel/#profile">Real Estate</a></li>
+	<li id="menu-item-185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-185"><a href="http://localhost/wordpress/listing/bmw-316-d-facelift/">Cars</a></li>
+	<li id="menu-item-186" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-186"><a href="https://docs.mylistingtheme.com/category/listing-types/">Create your own!</a></li>
+</ul>
+</li>
+<li id="menu-item-187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-187"><a href="#"><i class="icon-box-2"></i> More</a>
+<div class="submenu-toggle"><!--<i class="material-icons">arrow_drop_down</i>--><i class="mi arrow_drop_down"></i></div><ul class="sub-menu i-dropdown">
+	<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="http://localhost/wordpress/all-elementor-widgets/">All elementor widgets</a></li>
+	<li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="http://localhost/wordpress/add-listing/">Add a Listing</a></li>
+	<li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="http://localhost/wordpress/my-account/">Dashboard</a></li>
+	<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="http://localhost/wordpress/shop/">Shop</a></li>
+	<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="http://localhost/wordpress/blog/">Blog</a></li>
+	<li id="menu-item-193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193"><a href="https://mylistingtheme.com/">More demos</a></li>
+</ul>
+</li>
+</ul>
+					<div class="mobile-nav-button">
+						<div class="header-button">
+	<a href="http://localhost/wordpress/add-listing-2/" class="buttons button-1">
+		<i class="icon-location-pin-check-2"></i> Add a listing	</a>
+</div>					</div>
+				</div>
+				<div class="i-nav-overlay"></div>
+				</div>
+			<div class="header-right">
+									<div class="user-area signin-area">
+						<i class="mi person user-area-icon"></i>
+						<a href="http://localhost/wordpress/my-account-2/">
+							Sign in						</a>
+													<span>or</span>
+							<a href="http://localhost/wordpress/my-account-2/?register">
+								Register							</a>
+											</div>
+					<div class="mob-sign-in">
+						<a href="http://localhost/wordpress/my-account-2/"><i class="mi person"></i></a>
+					</div>
+
+											
+<a class="view-cart-contents" href="#" type="button" id="user-cart-menu" data-toggle="modal" data-target="#wc-cart-modal" title="View your shopping cart">
+	<span class="mi shopping_basket"></span>
+	<i class="header-cart-counter counter-hidden" data-count="0">
+		<span>0</span>
+	</i>
+</a>									
+				<div class="header-button">
+	<a href="http://localhost/wordpress/add-listing-2/" class="buttons button-1">
+		<i class="icon-location-pin-check-2"></i> Add a listing	</a>
+</div>
+									<div class="search-trigger" data-toggle="modal" data-target="#quicksearch-mobile-modal">
+						<a href="#"><i class="mi search"></i></a>
+					</div>
+							</div>
+		</div>
+	</div>
+</header>
+
+	<div class="c27-top-content-margin"></div>
+
+
+<section class="i-section">
+	<div class="container">
+		<div class="row text-center">
+            <div class="no-results-wrapper">
+                <!-- <i class="no-results-icon material-icons">mood_bad</i> -->
+                <i class="no-results-icon mi mood_bad"></i>
+                <li class="no_job_listings_found">Error 404: The page you are looking for cannot be found.</li>
+                <a href="http://localhost/wordpress/" class="buttons button-2">Back to homepage</a>
+            </div>
+		</div>
+	</div>
+</section>
+
+</div>
+<footer class="footer ">
+	<div class="container">
+					<div class="row">
+							</div>
+		
+		<div class="row">
+			<div class="col-md-12">
+				<div class="footer-bottom">
+					<div class="row">
+													<div class="col-md-12 col-sm-12 col-xs-12 social-links">
+								<ul id="menu-footer-social-links" class="main-menu social-nav"><li id="menu-item-169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-169"><a href="https://www.facebook.com/wearecase27/"><i class="fa fa-facebook-f"></i></a></li>
+<li id="menu-item-170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-170"><a href="https://www.youtube.com/channel/UCva2ULajnzEhorlabr_yDpA"><i class="fa fa-youtube-play"></i></a></li>
+<li id="menu-item-171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-171"><a href="https://twitter.com/collective27?lang=en"><i class="fa fa-twitter"></i></a></li>
+</ul>							</div>
+												<div class="col-md-12 col-sm-12 col-xs-12 copyright">
+							<p>© Made by 27collective</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<!-- Quick view modal -->
+<div id="quick-view" class="modal modal-27 quick-view-modal c27-quick-view-modal" role="dialog">
+	<div class="container">
+		<div class="modal-dialog">
+			<div class="modal-content"></div>
+		</div>
+	</div>
+	<div class="loader-bg">
+		
+<div class="paper-spinner center-vh" style="width: 28px; height: 28px;">
+	<div class="spinner-container active">
+		<div class="spinner-layer layer-1" style="border-color: #ddd;">
+			<div class="circle-clipper left">
+				<div class="circle" style="border-width: 3px;"></div>
+			</div><div class="gap-patch">
+				<div class="circle" style="border-width: 3px;"></div>
+			</div><div class="circle-clipper right">
+				<div class="circle" style="border-width: 3px;"></div>
+			</div>
+		</div>
+	</div>
+</div>	</div>
+</div><!-- Comparison view modal -->
+<div id="comparison-view" class="modal modal-27" role="dialog">
+	<div class="modal-dialog">
+		<div class="modal-content"></div>
+	</div>
+	<div class="loader-bg">
+		
+<div class="paper-spinner center-vh" style="width: 28px; height: 28px;">
+	<div class="spinner-container active">
+		<div class="spinner-layer layer-1" style="border-color: #ddd;">
+			<div class="circle-clipper left">
+				<div class="circle" style="border-width: 3px;"></div>
+			</div><div class="gap-patch">
+				<div class="circle" style="border-width: 3px;"></div>
+			</div><div class="circle-clipper right">
+				<div class="circle" style="border-width: 3px;"></div>
+			</div>
+		</div>
+	</div>
+</div>	</div> 
+</div>
+<!-- Modal - WC Cart Contents-->
+<div id="wc-cart-modal" class="modal modal-27" role="dialog">
+    <div class="modal-dialog modal-md">
+	    <div class="modal-content">
+	        <div class="sign-in-box">
+				<div class="widget woocommerce widget_shopping_cart"><h2 class="widgettitle">Cart</h2><div class="widget_shopping_cart_content"></div></div>			</div>
+		</div>
+	</div>
+</div><!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+<!-- Background of PhotoSwipe.
+It's a separate element as animating opacity is faster than rgba(). -->
+<div class="pswp__bg"></div>
+<!-- Slides wrapper with overflow:hidden. -->
+<div class="pswp__scroll-wrap">
+    <!-- Container that holds slides.
+        PhotoSwipe keeps only 3 of them in the DOM to save memory.
+        Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <!--  Controls are self-explanatory. Order can be changed. -->
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div><script id="mylisting-dialog-template" type="text/template">
+	<div class="mylisting-dialog-wrapper">
+		<div class="mylisting-dialog">
+			<div class="mylisting-dialog--message"></div><!--
+			 --><div class="mylisting-dialog--actions">
+				<div class="mylisting-dialog--dismiss mylisting-dialog--action">Dismiss</div>
+				<div class="mylisting-dialog--loading mylisting-dialog--action hide">
+					
+<div class="paper-spinner " style="width: 24px; height: 24px;">
+	<div class="spinner-container active">
+		<div class="spinner-layer layer-1" style="border-color: #777;">
+			<div class="circle-clipper left">
+				<div class="circle" style="border-width: 2.5px;"></div>
+			</div><div class="gap-patch">
+				<div class="circle" style="border-width: 2.5px;"></div>
+			</div><div class="circle-clipper right">
+				<div class="circle" style="border-width: 2.5px;"></div>
+			</div>
+		</div>
+	</div>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</script>        <a href="#" class="back-to-top">
+            <i class="mi keyboard_arrow_up"></i>
+        </a>
+    <style type="text/css">.c27-main-header .logo img { height: 38px; }@media screen and (max-width: 1200px) { .c27-main-header .logo img { height: 50px; } }@media screen and (max-width: 480px) { .c27-main-header .logo img { height: 40px; } }.c27-main-header:not(.header-scroll) .header-skin { background: #202125 }.c27-main-header:not(.header-scroll) .header-skin { border-bottom: 1px solid #202125 } .c27-main-header.header-scroll .header-skin{ background: #202125 !important; }.c27-main-header.header-scroll .header-skin { border-bottom: 1px solid #202125 !important; } </style>					<div id="quicksearch-mobile-modal" class="modal modal-27">
+						<div class="modal-dialog modal-md">
+							<div class="modal-content">
+								<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									<span aria-hidden="true">&times;</span>
+								</button>
+								<div class="quick-search-instance text-left" id="quicksearch-mobile" data-focus="always">
+	<form action="http://localhost/wordpress/explore-2/" method="GET">
+		<div class="dark-forms header-search  search-shortcode-light">
+			<i class="mi search"></i>
+			<input type="search" placeholder="What are you looking for?" name="search_keywords" autocomplete="off">
+			<div class="instant-results">
+				<ul class="instant-results-list ajax-results"></ul>
+				<button type="submit" class="buttons full-width button-5 search view-all-results all-results">
+					<i class="mi search"></i>View all results				</button>
+				<button type="submit" class="buttons full-width button-5 search view-all-results no-results">
+					<i class="mi search"></i>No results				</button>
+				<div class="loader-bg">
+					
+<div class="paper-spinner center-vh" style="width: 24px; height: 24px;">
+	<div class="spinner-container active">
+		<div class="spinner-layer layer-1" style="border-color: #777;">
+			<div class="circle-clipper left">
+				<div class="circle" style="border-width: 2.5px;"></div>
+			</div><div class="gap-patch">
+				<div class="circle" style="border-width: 2.5px;"></div>
+			</div><div class="circle-clipper right">
+				<div class="circle" style="border-width: 2.5px;"></div>
+			</div>
+		</div>
+	</div>
+</div>				</div>
+
+									<ul class="instant-results-list default-results">
+        				<li class="ir-cat">Featured</li>
+
+													<li>
+								<a href="http://localhost/wordpress/category/nightlife/">
+									<span class="cat-icon" style="background-color: #f24286;">
+                                        			<i class="icon-glass-cocktail-2" style="color: #fff; "></i>
+											</span>
+									<span class="category-name">Nightlife</span>
+								</a>
+							</li>
+													<li>
+								<a href="http://localhost/wordpress/category/restaurants/">
+									<span class="cat-icon" style="background-color: #ff4949;">
+                                        			<i class="mi restaurant_menu" style="color: #fff; "></i>
+											</span>
+									<span class="category-name">Restaurants</span>
+								</a>
+							</li>
+													<li>
+								<a href="http://localhost/wordpress/category/cinemas/">
+									<span class="cat-icon" style="background-color: #25d4e8;">
+                                        			<i class="mi local_movies" style="color: #fff; "></i>
+											</span>
+									<span class="category-name">Cinemas</span>
+								</a>
+							</li>
+													<li>
+								<a href="http://localhost/wordpress/category/art-and-history/">
+									<span class="cat-icon" style="background-color: #dd9933;">
+                                        			<i class="icon-temple-2" style="color: #fff; "></i>
+											</span>
+									<span class="category-name">Art and History</span>
+								</a>
+							</li>
+						
+					</ul>
+							</div>
+		</div>
+	</form>
+</div>							</div>
+						</div>
+					</div>
+				<script id="case27-basic-marker-template" type="text/template">
+	<a href="#" class="marker-icon">
+		<div class="marker-img" style="background-image: url({{marker-bg}});"></div>
+	</a>
+</script>
+<script id="case27-traditional-marker-template" type="text/template">
+	<div class="cts-marker-pin">
+		<img src="http://localhost/wordpress/wp-content/themes/my-listing/assets/images/pin.png">
+	</div>
+</script>
+<script id="case27-user-location-marker-template" type="text/template">
+	<div class="cts-geoloc-marker"></div>
+</script>
+<script id="case27-marker-template" type="text/template">
+	<a href="#" class="marker-icon {{listing-id}}">
+		{{icon}}
+		<div class="marker-img" style="background-image: url({{marker-bg}});"></div>
+	</a>
+</script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"http:\/\/localhost\/wordpress\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.3' id='contact-form-7-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.5.9.0' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wordpress\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/localhost\/wordpress\/cart-2\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.9.0' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.5.9.0' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wordpress\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.9.0' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wordpress\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_cd5c474313d35fbf88c0be5b22a75581","fragment_name":"wc_fragments_cd5c474313d35fbf88c0be5b22a75581","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.9.0' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=&#038;libraries=places&#038;v=3' id='google-maps-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/my-listing/assets/dist/maps/google-maps/google-maps.js?ver=2.7.1' id='mylisting-google-maps-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/mouse.min.js?ver=1.12.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/sortable.min.js?ver=1.12.1' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.1' id='moment-js'></script>
+<script type='text/javascript' id='moment-js-after'>
+moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
+</script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/my-listing/assets/vendor/select2/select2.js?ver=4.0.13' id='select2-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/my-listing/assets/vendor/vuejs/vue.min.js?ver=2.6.11' id='vuejs-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/slider.min.js?ver=1.12.1' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/my-listing/assets/dist/vendor.js?ver=2.7.1' id='mylisting-vendor-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/my-listing/assets/dist/frontend.js?ver=2.7.1' id='c27-main-js'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/wp-embed.min.js?ver=5.8.2' id='wp-embed-js'></script>
+<script>
+	function hideCompareButton(hide){
+		var btn = jQuery('.compare-bar');
+		if( hide ) {
+			btn.addClass('hide');
+		} else {
+			btn.removeClass('hide');
+		}
+	}
+</script>
+</body>
+</html>
